@@ -1,2 +1,2 @@
 # Employment-Churn
-Machine learning project for employment data set on kaggle
+Machine learning project for employee data set on Kaggle: https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset
